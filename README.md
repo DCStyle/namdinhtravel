@@ -1,6 +1,8 @@
 # namdinhtravel
 Just a simple travel blog using UIKit Framework
 
+https://dcstyle.github.io/namdinhtravel/
+
 ### CSS Styles
 
 All the layouts are based on default UIkit styles to keeps things clean and simple, but some layouts may use some custom css code.
@@ -17,4 +19,3 @@ Since UIkit 3 removed JQuery dependancy, it´s not included. All JS implementati
 The `uikit.min.js` file is the minified latest version of UIKit 3 ( latest ) from the cdn. 
 
 The `data-uk-*` syntax it´s used in order to work with every library and get html code validated.
-
